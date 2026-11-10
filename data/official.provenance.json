@@ -1,0 +1,121 @@
+{
+  "retrieved_at_utc": "20261110T122752Z",
+  "source": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice",
+  "requested_start": "2003-02-16",
+  "pages": 21,
+  "rows": 2086,
+  "first_issue": "2013001",
+  "last_issue": "2026128",
+  "warnings": [
+    "校验不证明来源真实性；范围之外及跨年年末缺期无法自动判断，不能宣称全历史完整。"
+  ],
+  "raw": [
+    {
+      "file": "data\\raw_20261110T122752Z\\page_1.json",
+      "sha256": "bbf302e9118148d670a9c3404b7fd6c2d5b09bf8df68b75dad8d4a0de1bb0a66",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=1&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_2.json",
+      "sha256": "353a583dcf8ac1503ab541e5e418496fbbde1b52cbdb2a9258281164e4325ea7",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=2&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_3.json",
+      "sha256": "c3222a4978abdbfc0fca4467fa51df6402f7f74bdd2a8a87527b1bd7fb9bfa03",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=3&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_4.json",
+      "sha256": "8dfc540fee9bef3c44cecc74f9215e9ef099c1aac949468ee6a4a2dd39a041f4",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=4&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_5.json",
+      "sha256": "bb2c35d46be58a594e5ec38b9e32e494e54274f4d81701be228438d0cd3770a1",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=5&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_6.json",
+      "sha256": "abe44ea9eba547d24e5364d6bd82c3f5bd6c2c968ce6963715582959bfb48ef5",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=6&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_7.json",
+      "sha256": "57084e7c693bdcc7f9645f50dbf6bcd6741c0e1d948ecc4d18657af8108c6991",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=7&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_8.json",
+      "sha256": "bcd0217483dae7d3cdb7f58aa99925f1a18a99eb7654722557d4a6126ca8f80f",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=8&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_9.json",
+      "sha256": "38e5e2a538c2344aa7022df22ddd3b70ec356874140a7a8a032f54edd09486fd",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=9&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_10.json",
+      "sha256": "422e38300996344f434d033bce002447f0fa2dc48bff7b8815f373f761af0485",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=10&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_11.json",
+      "sha256": "6039e5d8b991187d7aec9fff56a7cb36e3673fc13852c07b2c4dd70f22b06ff7",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=11&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_12.json",
+      "sha256": "2d7ecc4444dc7d27c3e4ff0e3b413c05ffe2f1e743d4a7e9a8aedf9101445784",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=12&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_13.json",
+      "sha256": "a7cfc5aff76e10940f9bdf00aa5ed6227998e30f25859728efba57f066f058e1",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=13&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_14.json",
+      "sha256": "10d2155e95c7f81054334ea2f6194af987f1aeb1f0970bbdf8f613cd36c53194",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=14&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_15.json",
+      "sha256": "94eacd48bc4a55a5e77a59f22ef9db2bc23381752d5ce854b619c5a6e847b492",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=15&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_16.json",
+      "sha256": "d0f7864f05828a24bede67d133abfdbe20abd8582a8cea4681a66838ce129c53",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=16&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_17.json",
+      "sha256": "f5581e3af0a149950db8311ab91a68d33ad526f9aad1e8c9d9d89cf2b31f4ec2",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=17&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_18.json",
+      "sha256": "2c6dfad6881197895b3e9f034ed7113648cc170baa62bd9a9ebf999a9dbcf6e1",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=18&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_19.json",
+      "sha256": "b3e8b342886663b860036b7c6462ea1d4043e92f54caef4fccd265eae332dc53",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=19&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_20.json",
+      "sha256": "c335e25d11df4eb51c4b16a470b242e7920db1ab9de4c9d2f1c79176391ef3ba",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=20&pageSize=100&systemType=PC"
+    },
+    {
+      "file": "data\\raw_20261110T122752Z\\page_21.json",
+      "sha256": "3f3bb5b0c03cd53feb3cc27bbdd31ed2eda701852b0ad5a51aed5c2d46cb8aa2",
+      "url": "https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice?name=ssq&dayStart=2003-02-16&dayEnd=2026-11-10&pageNo=21&pageSize=100&systemType=PC"
+    }
+  ],
+  "completeness": "仅为接口此次返回范围，不保证全历史完整",
+  "csv_sha256": "92546b4efed1704ed80d587a10a3af0fb35d268828eb707cee1038178300e12b"
+}
